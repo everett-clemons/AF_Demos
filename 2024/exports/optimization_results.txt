@@ -1,0 +1,62 @@
+Optimization Results:
+Current Parameters:
+cook_temp: 476.38
+cook_time: 24.57
+cooker_speed: 46.58
+drying_temp_1: 254.30
+drying_time_1: 10.13
+drying_speed_1: 423.95
+flaking_rolls_gap: 1.98
+flaking_rolls_speed: 297.06
+coating_flow: 1.89
+conveyor_speed: 407.76
+drying_temp_2: 249.59
+drying_time_2: 10.87
+drying_speed_2: 395.17
+moisture: 25.63
+color: 5.23
+moisture_2: 24.90
+thickness: 0.74
+diameter: 6.38
+final_moisture: 18.42
+sugar: 39.20
+vitamins: 9.54
+color_final: 5.05
+cook_temp_time_interaction: 11705.20
+drying_temp_time_interaction_1: 2575.98
+drying_temp_time_interaction_2: 2714.11
+flaking_interaction: 588.02
+coating_interaction: 771.30
+
+Optimized Parameters:
+cook_temp: 476.36
+cook_time: 24.62
+cooker_speed: 46.69
+drying_temp_1: 254.42
+drying_time_1: 10.07
+drying_speed_1: 424.17
+flaking_rolls_gap: 1.81
+flaking_rolls_speed: 297.00
+coating_flow: 2.01
+conveyor_speed: 407.61
+drying_temp_2: 249.58
+drying_time_2: 11.00
+drying_speed_2: 395.14
+moisture: 25.50
+color: 5.22
+moisture_2: 24.94
+thickness: 0.98
+diameter: 6.64
+final_moisture: 18.49
+sugar: 39.20
+vitamins: 9.55
+color_final: 5.20
+cook_temp_time_interaction: 11705.17
+drying_temp_time_interaction_1: 2575.70
+drying_temp_time_interaction_2: 2714.22
+flaking_interaction: 588.01
+coating_interaction: 771.24
+
+Predictions:
+Current - Throughput: 844.70, First Pass Quality: 96.89, Scrap: 44.31
+Optimized - Throughput: 845.04, First Pass Quality: 97.50, Scrap: 40.55
