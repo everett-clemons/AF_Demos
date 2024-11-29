@@ -5,13 +5,13 @@ A collection of educational AI/ML demonstrations showcasing practical applicatio
 
 ## 🎯 Overview
 
-This repository demonstrates real-world applications of AI/ML in manufacturing, focusing on:
+This repository provides educational demonstrations of AI/ML applications in manufacturing, focusing on:
 - Process optimization through machine learning
 - Data-driven decision making
 - Practical implementation approaches
-- Integration with manufactuing IT and OT  systems
+- Integration with manufactuing IT and OT systems
 
-Each demo is designed to illustrate both the technical implementation and business value of AI in manufacturing.
+Each educational demo is designed to illustrate both the technical implementation and business value of AI in manufacturing.
 
 ## 📂 Repository Structure
 
@@ -25,12 +25,12 @@ Each demo is designed to illustrate both the technical implementation and busine
 └── README.md                      # This file
 ```
 
-## 🗂️ Available Demonstrations
+## 🗂️ Available Educational Demonstrations
 
 ### 2024: Cereal Manufacturing Process Optimization
 [View Demo](/2024/README.md)
 
-A comprehensive demonstration of:
+A comprehensive educational demonstration of:
 - Manufacturing process optimization using ML
 - Multi-objective optimization (quality, throughput, scrap)
 - XGBoost regression models
@@ -84,11 +84,11 @@ Each demonstration includes:
 
 ## ⚠️ Important Notes
 
-- These demos are educational resources, not production-ready solutions
-- Each implementation requires customization for specific use cases
-- Consider data quality and safety requirements for your application
-- Regular model retraining may be necessary
-- Ensure compliance with your organization's AI/ML guidelines
+- These demos are educational resources, not production-ready solutions.
+- Each implementation requires customization for specific use cases.
+- Consider data quality and safety requirements for your application.
+- Regular model retraining may be necessary.
+- Ensure compliance with your organization's AI/ML guidelines.
 
 ## 📝 License
 
@@ -103,17 +103,17 @@ everett.clemons@rockwellautomation.com
 ## 🙏 Acknowledgments
 - **John Clemons** - Rockwell Automation
 - **Tim Gellner** - Rockwell Automation
-- The Rockwell Automation Fair team
+- The Rockwell Automation Automation Fair 2024 team
 
 ## 📅 Version History
 
 | Year | Demo | Event | Key Features |
 |------|------|-------|--------------|
-| 2024 | Cereal Process Optimization | Automation Fair 2024, Anaheim | • ML-driven process optimization<br>• Multi-objective optimization<br>• Real-time parameter tuning |
+| 2024 | Cereal Process Optimization | Automation Fair 2024, Anaheim, CA | • ML-driven process optimization<br>• Multi-objective optimization<br>• Real-time parameter tuning |
 
 ## 🔜 Coming Soon
 - Additional industry-specific examples
 - Integration with FT Optix and FactoryTalk Production Center
 
 ---
-*Last Updated: November 2024*
+*Last Updated: December 2024*
