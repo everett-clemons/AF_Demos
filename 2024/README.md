@@ -14,7 +14,58 @@ This project demonstrates:
 3. Using these models to optimize process parameters
 4. Generating natural language instructions for engineers and operators   
 
-**Important Note:** This is NOT a plug-and-play solution for your manufacturing operation. Instead, it's an educational demonstration of the process and methodology you might consider following when developing your own AI/ML solutions.
+**Important Note:** This is NOT a plug-and-play solution for your manufacturing operation. Instead, it's an educational demonstration of the process and methodology you might consider following when developing your own AI/ML solutions. 
+
+## ⚠️ Disclaimer and Code Status
+This repository contains demonstration code developed specifically for educational purposes at the Rockwell Automation Fair. Please note:
+
+### 🎯 Purpose
+
+#### Educational resource demonstrating AI/ML concepts in manufacturing
+#### Proof-of-concept implementation
+#### Example workflow for similar projects
+#### Teaching tool for industrial ML applications
+
+### 🚫 Not Intended For
+#### Production deployment
+#### Direct implementation in live systems
+#### Critical process control
+#### Safety-related applications
+
+### 📝 Code Status
+#### The code is provided AS-IS and is:
+#### Optimized for readability over performance
+#### Simplified for demonstration purposes
+#### Not exhaustively tested
+#### Missing production-level error handling
+#### Not regularly maintained
+
+### 💡 Usage Guidelines
+#### Use as a learning resource
+#### Understand the concepts demonstrated
+#### Adapt and enhance for your specific needs
+#### Follow proper software development practices for production implementations
+#### Consider safety and regulatory requirements
+
+### 🔄 Contributions
+#### While we appreciate the community's interest:
+#### Pull requests are not being accepted
+#### Issues can be opened for discussion purposes
+#### Feel free to fork and adapt for your own use
+#### Share your learnings through discussions
+
+### ✅ Best Practices
+When adapting this code, consider:
+
+#### Adding comprehensive error handling
+#### Implementing proper logging
+#### Including thorough testing
+#### Adding security measures
+#### Optimizing performance
+#### Following industry-specific standards
+
+
+**Remember**: This is a teaching tool, not a turnkey solution. Always follow your organization's software development and safety guidelines when implementing AI/ML in industrial settings.
 
 ## 📊 Process Flow
 
