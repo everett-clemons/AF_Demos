@@ -1,19 +1,20 @@
 # Manufacturing Process Optimization with Machine Learning
 ## Rockwell Automation Fair AI in MES Demo 2024
 
-This repository demonstrates the process of building machine learning models to optimize manufacturing processes, as presented at the 2024 Rockwell Automation Fair. It serves as an educational resource showing how to approach manufacturing optimization problems using data science techniques.
+This repository demonstrates the process of building machine learning models to optimize manufacturing processes, as presented at Rockwell Automation's Automation Fair 2024. It serves as an educational resource showing how to approach manufacturing optimization problems using AI/ML techniques.
 
 ## 🎯 Project Overview
 
 This project demonstrates:
-1. How to analyze manufacturing process data
+1. Analyzing manufacturing process data
 2. Building predictive models for key performance indicators (KPIs):
    - Throughput
    - First Pass Quality
    - Scrap Rate
 3. Using these models to optimize process parameters
+4. Generating natural language instructions for engineers and operators   
 
-**Important Note:** This is NOT a plug-and-play solution for your manufacturing data. Instead, it's a demonstration of the process and methodology you might follow when developing your own optimization solutions.
+**Important Note:** This is NOT a plug-and-play solution for your manufacturing operation. Instead, it's an educational demonstration of the process and methodology you might consider following when developing your own AI/ML solutions.
 
 ## 📊 Process Flow
 
@@ -184,4 +185,4 @@ For questions about the demo or discussions about manufacturing optimization:
 - John Clemons and Tim Gellner of Rockwell Automation
 
 ---
-*Last updated: November 2024*
+*Last updated: December 2024*
