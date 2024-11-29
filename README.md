@@ -1,7 +1,7 @@
 # 🏭 Rockwell Automation Fair Demos
 ![Rockwell Automation Logo](image.png)
 
-A collection of industrial AI/ML demonstrations showcasing practical applications of artificial intelligence in manufacturing processes. These demos were presented at Rockwell Automation Fair events and serve as educational resources for implementing AI in industrial settings.
+A collection of educational AI/ML demonstrations showcasing practical applications of artificial intelligence in manufacturing processes. These demos were presented at Rockwell Automation's Automation Fair 2024 and serve as educational resources for people conisdering AI in manufacting settings.
 
 ## 🎯 Overview
 
@@ -9,7 +9,7 @@ This repository demonstrates real-world applications of AI/ML in manufacturing, 
 - Process optimization through machine learning
 - Data-driven decision making
 - Practical implementation approaches
-- Integration with industrial systems
+- Integration with manufactuing IT and OT  systems
 
 Each demo is designed to illustrate both the technical implementation and business value of AI in manufacturing.
 
