@@ -1,0 +1,80 @@
+OPTIMIZATION RESULTS REPORT
+=========================
+
+PROCESS PARAMETERS
+-----------------
+
+Parameter Changes:
+                         Parameter  Current  Optimized  Absolute_Change  Percent_Change
+0                        cook_temp   476.38     476.31            -0.07           -0.01
+1                        cook_time    24.57      24.44            -0.13           -0.52
+2                     cooker_speed    46.58      46.55            -0.04           -0.08
+3                    drying_temp_1   254.30     254.28            -0.02           -0.01
+4                    drying_time_1    10.13      10.07            -0.06           -0.60
+5                   drying_speed_1   423.95     423.94            -0.01           -0.00
+6                flaking_rolls_gap     1.98       2.07             0.09            4.46
+7              flaking_rolls_speed   297.06     296.98            -0.08           -0.03
+8                     coating_flow     1.89       1.61            -0.28          -14.73
+9                   conveyor_speed   407.76     407.75            -0.01           -0.00
+10                   drying_temp_2   249.59     249.42            -0.17           -0.07
+11                   drying_time_2    10.87      10.87            -0.01           -0.07
+12                  drying_speed_2   395.17     395.15            -0.03           -0.01
+13                        moisture    25.63      25.69             0.06            0.23
+14                           color     5.23       5.11            -0.11           -2.11
+15                      moisture_2    24.90      24.94             0.04            0.15
+16                       thickness     0.74       0.90             0.15           20.72
+17                        diameter     6.38       6.50             0.12            1.91
+18                  final_moisture    18.42      18.42            -0.00           -0.01
+19                           sugar    39.20      39.13            -0.07           -0.18
+20                        vitamins     9.54       9.40            -0.15           -1.52
+21                     color_final     5.05       5.25             0.20            3.87
+22      cook_temp_time_interaction 11705.20   11705.32             0.12            0.00
+23  drying_temp_time_interaction_1  2575.98    2576.00             0.02            0.00
+24  drying_temp_time_interaction_2  2714.11    2714.14             0.03            0.00
+25             flaking_interaction   588.02     588.01            -0.01           -0.00
+26             coating_interaction   771.30     771.28            -0.02           -0.00
+
+PERFORMANCE METRICS
+-----------------
+
+Metric Changes:
+               Metric  Current  Optimized  Absolute_Change  Percent_Change
+0          throughput   842.11     849.08             6.97            0.83
+1  first_pass_quality    96.92      97.35             0.42            0.44
+2               scrap    56.32      55.39            -0.93           -1.65
+
+OPTIMIZATION SUMMARY
+-----------------
+
+Key Improvements:
+
+throughput:
+- Changed from 842.11 to 849.08
+- Absolute improvement: 6.97
+- Relative improvement: 0.8%
+
+first_pass_quality:
+- Changed from 96.92 to 97.35
+- Absolute improvement: 0.42
+- Relative improvement: 0.4%
+
+scrap:
+- Changed from 56.32 to 55.39
+- Absolute improvement: -0.93
+- Relative improvement: -1.7%
+
+
+PARAMETER RECOMMENDATIONS
+-----------------------
+
+Most Significant Parameter Changes (>5% change):
+
+thickness:
+- Current: 0.74
+- Recommended: 0.90
+- Change: 0.15 (20.7%)
+
+coating_flow:
+- Current: 1.89
+- Recommended: 1.61
+- Change: -0.28 (-14.7%)

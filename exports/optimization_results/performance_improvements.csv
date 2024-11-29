@@ -1,0 +1,4 @@
+Metric,Current,Optimized,Absolute_Change,Percent_Change
+throughput,842.10834,849.08246,6.974121,0.8281739
+first_pass_quality,96.924255,97.34588,0.42162323,0.4350028
+scrap,56.321373,55.390446,-0.9309273,-1.6528845
