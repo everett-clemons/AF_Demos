@@ -1,7 +1,7 @@
 # 🏭 Rockwell Automation Fair Demos
 ![Rockwell Automation Logo](image.png)
 
-A collection of educational AI/ML demonstrations showcasing practical applications of artificial intelligence in manufacturing processes. These demos were presented at Rockwell Automation's Automation Fair 2024 and serve as educational resources for people conisdering AI in manufacting settings.
+A collection of educational AI/ML demonstrations showcasing practical applications of artificial intelligence in manufacturing processes. These demos were presented at Rockwell Automation's Automation Fair 2024 and serve as educational resources for people considering AI in Manufactuing settings.
 
 ## 🎯 Overview
 
